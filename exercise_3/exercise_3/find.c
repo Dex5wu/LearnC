@@ -1,3 +1,4 @@
+//在一个有序数组中查找具体的某个数字n。
 #include <stdio.h>
 #include <stdlib.h>
 
