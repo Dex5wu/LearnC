@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="learn.c">
+    <ClCompile Include="factorial.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
